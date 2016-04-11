@@ -1,0 +1,10 @@
+#*** Client credentials
+[client]
+user=root
+password="cliPasswordHere"
+
+#*** ListenerStart
+[mysqldump]
+user=root
+password="ListenerPasswordHere"
+#*** ListenerEnd
